@@ -3,21 +3,27 @@
 body {
   background-color: #2e2e2e;
   font-family: "Montserrat", Arial, sans-serif;
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
 }
 
 h1 {
-  color: #ffffff;
   font-size: 50px;
   text-align: center;
 }
 
 a {
-  color: white;
+  color: #fff;
 }
 
 ul {
   list-style-type: none;
-  color: white;
-  font-size: 36px;
-  text-align: center;
+    font-size: 36px;
+    text-align: center;
+}
+
+.ing-list,
+.ins-list {
+  font-size: 25px;
 }
